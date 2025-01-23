@@ -23,7 +23,7 @@ Primeiro Challenge do curso de programação da ONE (Oracle Next Education) em p
 
 ## 🖼️ Projeto Sorteio do Amigo Secreto
 
-![Design sem nome](https://github.com/Brunex-Alado)
+![Design sem nome](https://raw.githubusercontent.com/Brunex-Alado/amigo-secreto/refs/heads/main/assets/Image-1.png)
 
 
 Para acessar o jogo [clique aqui](https://https://vercel.com/brunex-alados-projects).
