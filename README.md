@@ -26,4 +26,4 @@ Primeiro Challenge do curso de programação da ONE (Oracle Next Education) em p
 ![Design sem nome](https://raw.githubusercontent.com/Brunex-Alado/amigo-secreto/refs/heads/main/assets/Image-1.png)
 
 
-Para acessar o jogo [clique aqui](https://https://vercel.com/brunex-alados-projects).
+Para acessar o jogo [clique aqui](https://amigo-secreto-three-nu.vercel.app).
